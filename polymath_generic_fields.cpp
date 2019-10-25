@@ -15,8 +15,7 @@
  *   enscript -1rG --line-numbers --portrait -p polymath_generic_fields.ps 
  *            --highlight=cpp -c polymath_generic_fields.cpp
  *           
- * 
- *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  * 
+ *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  * 
  *   This version uses an obscure but novel Polynom-Nom polynomial library 
  *   for its educational value.
  *   https://github.com/whisperity/polynomnom
