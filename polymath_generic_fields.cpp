@@ -17,8 +17,9 @@
  *           
  * 
  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  * 
- *   This version uses Polynom-Nom library for its educational value.
- *   #include <cstddef> size_t versions
+ *   This version uses an obscure but novel Polynom-Nom polynomial library 
+ *   for its educational value.
+ *   https://github.com/whisperity/polynomnom
  */
 
 #include "Polynomial.hpp"
